@@ -58,7 +58,7 @@
 
 > [预览地址](https://visugar.github.io/FrontEnd-examples/07lazyLoading/index.html)
 
-### 08. HTML5拖放API小栗子
+### 08. HTML5拖放API
 + 使用html5中的拖放API实现网页中元素拖拽及本地资源显示在网页中等小栗子，具体原理请移步至[详解](http://www.jianshu.com/p/b7762be74511)
 
 > [源码地址](https://github.com/visugar/FrontEnd-examples/blob/master/08H5%E6%8B%96%E6%94%BEAPI/index.html)
@@ -72,33 +72,33 @@
 ### 09. 简易在线网页便筏
 +  使用本地存储实现简易的在线网页便筏，基本功能已实现，还有点小问题。。。
 
-> [源码地址](https://github.com/visugar/FrontEnd-examples/blob/master/09%E7%BD%91%E9%A1%B5%E7%89%88%E4%BE%BF%E7%AD%8F%E7%B3%BB%E7%BB%9F/index.html)
+> [源码地址](https://github.com/Bazingaliu/FrontEnd-examples/blob/master/09%E7%BD%91%E9%A1%B5%E7%89%88%E4%BE%BF%E7%AD%8F%E7%B3%BB%E7%BB%9F/index.html)
 
-> [预览地址](https://visugar.github.io/FrontEnd-examples/09%E7%BD%91%E9%A1%B5%E7%89%88%E4%BE%BF%E7%AD%8F%E7%B3%BB%E7%BB%9F/index.html)
+> [预览地址](https://Bazingaliu.github.io/FrontEnd-examples/09%E7%BD%91%E9%A1%B5%E7%89%88%E4%BE%BF%E7%AD%8F%E7%B3%BB%E7%BB%9F/index.html)
 
-### 10. requestAnimationFrame小栗子
+### 10. requestAnimationFrame
 + 使用requestAnimationFrame实现简单动画，要了解更多请移步[关于动画，你需要知道的](https://www.w3cplus.com/animaton/animations-you-should-know.html)
 
-> [源码地址](https://github.com/visugar/FrontEnd-examples/blob/master/10requestAnimationFrame%E5%AE%9E%E4%BE%8B/index.html)
+> [源码地址](https://github.com/Bazingaliu/FrontEnd/blob/master/10requestAnimationFrame%E5%AE%9E%E4%BE%8B/index.html)
 
-> [预览地址](https://visugar.github.io/FrontEnd-examples/10requestAnimationFrame%E5%AE%9E%E4%BE%8B/index.html)
+> [预览地址](https://Bazingaliu.github.io/FrontEnd/10requestAnimationFrame%E5%AE%9E%E4%BE%8B/index.html)
 
 ### 11. Web Animations API (JS动画利器)
 + 使用wappi的基本属性及方法，实现与css3动画同样的效果，其中waapi中有更丰富的方法来控制动画过程，但浏览器的支持度不高，玩玩小栗子还是可以的额
 
-> [源码地址](https://github.com/visugar/FrontEnd-examples/tree/master/11web_animations_api)
+> [源码地址](https://github.com/Bazingaliu/FrontEnd/tree/master/11web_animations_api)
 
 ### 12. 自定义滚动条样式
 + 使用scrollbar的一些伪类实现自定义滚动条的样式，但兼容性是不存在的，所以就当随便耍耍~
 
-> [源码地址](https://github.com/visugar/FrontEnd-examples/blob/master/12%E8%87%AA%E5%AE%9A%E4%B9%89%E6%BB%9A%E5%8A%A8%E6%9D%A1%E6%A0%B7%E5%BC%8F/index.html)
+> [源码地址](https://github.com/Bazingaliu/FrontEnd/blob/master/12%E8%87%AA%E5%AE%9A%E4%B9%89%E6%BB%9A%E5%8A%A8%E6%9D%A1%E6%A0%B7%E5%BC%8F/index.html)
 
 > [预览地址](http://visugar.com/FrontEnd-examples/12%E8%87%AA%E5%AE%9A%E4%B9%89%E6%BB%9A%E5%8A%A8%E6%9D%A1%E6%A0%B7%E5%BC%8F/index.html)（chrome下有效）
 
 ### 17. 网易前端微专业的最终大作业
 + 这是一个网易微专业的最后的大作业，为一个完整的应用页面，涉及到向后台请求数据，使用cookie及宽窄屏效果切换等，doc中给出了相关视觉稿及数据文档。
 
-> [源码地址](https://github.com/visugar/FrontEnd-examples/tree/master/17web-practice)
+> [源码地址](https://github.com/Bazingaliu/FrontEnd/tree/master/17web-practice)
 
-> [预览地址](http://visugar.com/FrontEnd-examples/17web-practice/index.html)
+> [预览地址](http://Bazingaliu.com/FrontEnd/17web-practice/index.html)
 
